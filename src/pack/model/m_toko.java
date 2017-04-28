@@ -10,8 +10,7 @@ package pack.model;
  * @author ASUS
  */
 public class m_toko {
-    public String Nama_Barang, Jenis, Harga, Kategori;
-    public String Kode_Barang;
+    public String Kode_Barang, Nama_Barang, Jenis, Harga, Kategori;
     
     public String getkode()
     {
