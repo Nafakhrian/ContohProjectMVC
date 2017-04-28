@@ -1,6 +1,6 @@
 # ContohProjectMVC
 
 Nama Project : ContohProjectMVC <br>
-Nama Siswa : Naufal Fakhrian
-Kelas : XI RPL 4
-Absen : 26
+Nama Siswa : Naufal Fakhrian <br><br>
+Kelas : XI RPL 4<br>
+Absen : 26<br>
